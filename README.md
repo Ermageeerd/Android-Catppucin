@@ -1,9 +1,9 @@
-# Android-Catppucin
+# Android-Catppuccin
 A collection of styles to attempt to style Android with a soothing pastel theme.
 
 # NOTE:
 
-These styles are not made or endorsed by Cattpucin, It is an unofficial port.
+These styles are not made or endorsed by Catppuccin, It is an unofficial port.
 
 # Setup
 
