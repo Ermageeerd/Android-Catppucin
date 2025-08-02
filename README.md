@@ -19,4 +19,6 @@ Copy this first.
 ``` json
 {"name":"Catppuccin","moreColors":0,"colors":{"spacebar":{"first":-13883579,"second":false},"keys":{"first":-13423282,"second":false},"background":{"first":-12830882,"second":false},"functional_keys":{"first":-13686199,"second":false}}}
 ```
-Click Load, and then Paste.
+Go to Heliboard's app, and tap **Appearance**.
+
+Tap **Colors**, then tap **Load**, before finally tapping Paste.
