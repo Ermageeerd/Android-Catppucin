@@ -1,8 +1,7 @@
 # Android-Catppuccin
 A collection of styles to attempt to style Android with a soothing pastel theme.
-!
-[Android 13 Easter Egg with my Material You theme.](https://raw.githubusercontent.com/Ermageeerd/Android-Catppucin/refs/heads/main/Images/Screenshot_20250802-000837.png)
-![The Heliboard keyboard with my Cattpuccin theme on.](https://raw.githubusercontent.com/Ermageeerd/Android-Catppucin/refs/heads/main/Images/Screenshot_20250801-234814.png)
+![The Heliboard keyboard with my Cattpuccin theme on.](https://raw.githubusercontent.com/Ermageeerd/Android-Catppucin/refs/heads/main/Images/Screenshot_20250802-000837.png)
+![Android 13 Easter Egg with my Material You theme.](https://raw.githubusercontent.com/Ermageeerd/Android-Catppucin/refs/heads/main/Images/Screenshot_20250801-234814.png)
 
 # NOTE:
 
