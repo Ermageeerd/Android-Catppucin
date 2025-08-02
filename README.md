@@ -17,7 +17,7 @@ Or don't. I'm not a cop.
 
 Copy this first.
 ``` json
-{"name":"Catppuccin","moreColors":0,"colors":{"spacebar":{"first":-13883579,"second":false},"keys":{"first":-13423282,"second":false},"background":{"first":-12830882,"second":false},"functional_keys":{"first":-13686199,"second":false}}}
+{"name":"Catppuccin","moreColors":0,"colors":{"text":{"first":-3287308,"second":false},"functional_keys":{"first":-15066582,"second":false},"background":{"first":-14803410,"second":false},"keys":{"first":-15066582,"second":false},"spacebar":{"first":-15066582,"second":false}}}
 ```
 Go to Heliboard's app, and tap **Appearance**.
 
