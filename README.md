@@ -24,7 +24,7 @@ Mocha:
 {"name":"Catppuccin","moreColors":0,"colors":{"text":{"first":-3287308,"second":false},"functional_keys":{"first":-15066582,"second":false},"background":{"first":-14803410,"second":false},"keys":{"first":-15066582,"second":false},"spacebar":{"first":-15066582,"second":false}}}
 ```
 Mocha Night:
-```
+``` json
 {"name":"Catppuccin","moreColors":0,"colors":{"hint_text":{"first":null,"second":false},"spacebar":{"first":-14803410,"second":false},"functional_keys":{"first":-14803410,"second":false},"text":{"first":-3287308,"second":false},"background":{"first":-15724262,"second":false},"keys":{"first":-14803410,"second":false},"accent":{"first":-3496201,"second":false}}}
 ```
 Go to Heliboard's app, and tap **Appearance**.
