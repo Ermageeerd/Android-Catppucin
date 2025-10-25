@@ -31,8 +31,13 @@ Go to Heliboard's app, and tap **Appearance**.
 
 Tap **Colors**, then tap **Load**, before finally tapping Paste.
 
-If the ColorBlendr theme does not work, use aShell to run this command.
+If the ColorBlendr theme does not work, use SetEdit to manually set the theme.
 
-```bash
-settings put secure theme_customization_overlay_packages "{"android.theme.customization.font":"default","android.theme.customization.accent_color":"1E1E2E","android.theme.customization.system_palette":"181825","android.theme.customization.color_source":"preset","_applied_timestamp":1755391601864,"android.theme.customization.theme_style":"VIBRANT"}"
+Go to Secure, and scroll until you see theme_customization_overlay_packages.
+
+Tap on it, press "Edit", and set it to this:
+
+```json
+{"android.theme.customization.font":"default","android.theme.customization.accent_color":"1E1E2E","android.theme.customization.system_palette":"181825","android.theme.customization.color_source":"preset","_applied_timestamp":1755391601864,"android.theme.customization.theme_style":"VIBRANT"}
 ```
+Tap Save Changes.
