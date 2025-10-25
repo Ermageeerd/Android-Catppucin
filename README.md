@@ -31,7 +31,7 @@ Go to Heliboard's app, and tap **Appearance**.
 
 Tap **Colors**, then tap **Load**, before finally tapping Paste.
 
-If the ColorBlendr theme does not work, use SetEdit to manually set the theme.
+If the ColorBlendr theme does not work, use [SetEdit](https://play.google.com/store/apps/details?id=by4a.setedit22) to manually set the theme.
 
 Go to Secure, and scroll until you see theme_customization_overlay_packages.
 
