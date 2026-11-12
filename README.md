@@ -1,3 +1,8 @@
+# NOTICE!
+I have lost motivation to maintain the themes here. Whjle the ColorBlendr/Monet theme is likely stable, future Heliboard updates may break the Heliboard theme. Apologies for the inconvenience.
+
+- Ermart, the Lead Maintainer
+
 # Android-Catppuccin
 A collection of styles to attempt to style Android with a soothing pastel theme.
 ![The Heliboard keyboard with my Cattpuccin theme on.](https://raw.githubusercontent.com/Ermageeerd/Android-Catppucin/refs/heads/main/Images/Screenshot_20250802-2.png)
