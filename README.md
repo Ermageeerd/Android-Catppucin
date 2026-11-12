@@ -1,5 +1,5 @@
 # NOTICE!
-I have lost motivation to maintain the themes here. Whjle the ColorBlendr/Monet theme is likely stable, future Heliboard updates may break the Heliboard theme. Apologies for the inconvenience.
+I have lost motivation to maintain the themes here. Whjle the ColorBlendr/Monet theme is likely stable (still eorkd on A16), future Heliboard updates may break the Heliboard theme. Apologies for the inconvenience.
 
 - Ermart, the Lead Maintainer
 
